@@ -1,8 +1,8 @@
-*This is Colab notebook with Indonesian explanations, for English version, see [here](https://github.com/yassir-a-p/blender-on-colab)*
+*This is a* Jupyter Notebook *to render Blender files in the cloud with Indonesian explanations. For English version, see [here](https://github.com/yassir-a-p/blender-on-colab)*
 
 # Blender On Google Colab (ID) :indonesia:
 
-Ini adalah *Python Notebook* yang bisa digunakan untuk menjalankan Blender dalam moda *background* di platform Google Colab yang menyediakan komputasi awan (cloud computing) dengan GPU. *Notebook* ini dibuat berdasarkan repo milik [donmahallem](https://github.com/donmahallem/colab_blender) dengan perubahan dan sedikit penjelasan kode dalam bahasa Indonesia.
+Ini adalah *Jupyter Notebook* yang bisa digunakan untuk menjalankan Blender dalam moda *background* di platform Google Colab yang menyediakan komputasi awan (cloud computing) dengan GPU. *Notebook* ini dibuat berdasarkan repo milik [donmahallem](https://github.com/donmahallem/colab_blender) dengan perubahan dan sedikit penjelasan kode dalam bahasa Indonesia.
 
 Untuk menjalankan *notebook* ini pada platform Google Colab, klik tombol berikut:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yassir-a-p/blender-on-colab-id/blob/master/blender-on-colab-id.ipynb)
